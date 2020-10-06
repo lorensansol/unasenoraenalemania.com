@@ -38,9 +38,6 @@ git add .;git commit -m "Actualización: `date +'%Y-%m-%d %H:%M:%S'`";git push
 
 ## FALTA
 
-- disqus
-- google_analytics
-- google_site_verification
 - Marcado de datos estructurados
 
 

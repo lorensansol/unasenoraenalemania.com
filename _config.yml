@@ -2,8 +2,8 @@
 name: 'Una señora en Alemania'
 title: 'Una señora en Alemania'
 description: '¡Descubre Alemania junto a mí! Choques culturales, datos de interés social, lugares bonitos y cosas que hacer!'
-url: https://lorensansol.github.io
-baseurl: /unasenoraenalemania.com
+url: https://unasenoraenalemania.com
+baseurl: ''
 logo: /assets/img/logo.svg
 favicon: /assets/img/logo-sea-como-seo.png
 google_analytics: UA-2157126-26
