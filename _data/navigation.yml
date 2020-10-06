@@ -1,0 +1,17 @@
+- name: Inicio
+  link: /
+- name: Categorías
+  link: /categorias
+  onclick: true
+# - name: Etiquetas
+#   link: /etiquetas
+#   onclick: true
+# - name: Autores
+#   link: /autores
+#   onclick: true
+- name: Sobre
+  link: /presentacion
+  onclick: true
+- name: Contacto
+  link: /presentacion#contacto
+  onclick: true

@@ -1,0 +1,59 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="es">
+
+{% include head.html %}
+
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+
+<body id="top">
+
+<div class="d-flex flex-column">
+    <!-- Before div flexbox and after div order-2 for put the menú first -->
+
+    <div class="site-content {% if page.url == '/' %}firstpage{% endif %} order-2">
+
+        <div class="container">
+
+            <!-- Site Logo/Name
+            ================================================== -->
+
+            <a class="navbar-brand w-100 mx-auto d-block" href="{{ site.baseurl }}/">
+                <img class="mt-0 mb-4 d-block d-sm-none" data-src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+                <img class="mt-0 mb-4 d-none d-sm-block" data-src="{{ site.baseurl }}/assets/img/logo-lg.svg" alt="{{ site.title }}">
+                <!-- <small class="h2 sm-h4 font-weight-bold">{{ site.name }}</span> -->
+            </a>
+
+            {% if page.url == '/' or paginator.page > 1 %}
+                <h1 class="sitetag mx-auto">
+                    {% if paginator.page > 1 %}
+                        Página {{paginator.page}} de {{paginator.total_pages}}
+                    {% else %}
+                        ¡Descubre Alemania junto a mí!
+                        <div class="lead"><small>Choques culturales, datos de interés social, lugares bonitos y cosas que hacer!</small></div>
+                    {% endif %}
+                </h1>
+            {% endif %}
+
+            <!-- Content
+            ================================================== -->
+            <div class="main-content">
+                {{ content }}
+            </div>
+            
+            {% include newsletter.html %}
+
+        </div>
+
+    </div> <!-- /.site-content -->
+
+    {% include menu.html %}
+
+</div>
+
+{% include footer.html %}
+
+</body>
+</html>

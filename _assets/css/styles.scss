@@ -1,0 +1,21 @@
+---
+---
+
+$brown: #B59F62;
+$teal: #40FFDC;
+$black: #111;
+$primary: #D15B43;
+  $percentage-darken-primary: 0%;
+$secondary: #F1DAC3;
+$dark: #212529;
+$enable-rounded: true;
+  $border-radius: 0.5rem;
+  $btn-type-pill: true;
+
+@import 'bootstrap/bootstrap';
+@import 'memoirs';
+@import 'smooth-scroll';
+@import 'cookies-message';
+@import 'btn-up';
+@import 'lazy-load';
+@import 'custom';

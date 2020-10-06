@@ -1,0 +1,124 @@
+# Site
+name: 'Una señora en Alemania'
+title: 'Una señora en Alemania'
+description: '¡Descubre Alemania junto a mí! Choques culturales, datos de interés social, lugares bonitos y cosas que hacer!'
+url: https://lorensansol.github.io
+baseurl: /unasenoraenalemania.com
+logo: /assets/img/logo.svg
+favicon: /assets/img/logo-sea-como-seo.png
+google_analytics: # UA-75330923-2
+google_site_verification: # 'Sb-MUAYWclN8UdYEC0-7YsKPFBAsrAPYNmM-k5QOXak'
+# google_adsense: # ca-pub-xxxxxxxxxxxxxxxx
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: '&#x75;&#x6E;&#x61;&#x73;&#x65;&#x6E;&#x6F;&#x72;&#x61;&#x65;&#x6E;&#x61;&#x6C;&#x65;&#x6D;&#x61;&#x6E;&#x69;&#x61;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;'
+disqus: # 'seacomoseo'
+lang: es
+permalink: /:title
+authorbox: true
+author-links: true
+search: true
+lazy-load-comments: false # if not, comments load when clic
+critical-path-css: false
+
+# Authors
+authors:
+  maria:
+    name: María Sánchez
+    avatar: /assets/img/avatar.jpg
+    # gravatar: a48d43c9530f50721162853c0b68aebc
+    email: '&#x75;&#x6E;&#x61;&#x73;&#x65;&#x6E;&#x6F;&#x72;&#x61;&#x65;&#x6E;&#x61;&#x6C;&#x65;&#x6D;&#x61;&#x6E;&#x69;&#x61;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;'
+    web: 'presentacion'
+    # twitter: https://twitter.com/mariasaanchez
+    instagram: https://www.instagram.com/mariasaanchez/
+    description: 'Viajar para descubrir el mundo y a mí misma. Marketing y social media management como pasión. La danza y la fotografía mi complemento imprescindible.'
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-figure
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/categorias#:name'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Drafts and pages like collections
+collections:
+  drafts:
+    output: true
+  pages:
+    output: true
+    permalink: /:name
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: all
+  ignore:
+    envs: [development]
+
+# Exclude
+exclude: [README.md, Gemfile, Gemfile.lock]
+
+# Defaults values
+defaults:
+  - # All posts
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: post
+      author: maria
+      toc: false
+      description: false
+      comments: true
+      excerpt_separator: <!--more-->
+  - # All posts
+    scope:
+      path: ''
+      type: 'drafts'
+    values:
+      layout: post
+      author: maria
+      toc: false
+      description: false
+      comments: false
+      sitemap: false
+      excerpt_separator: <!--more-->
+  - # All pages
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: page
+      toc: false
+      description: false
+      comments: false
+      sitemap: false
+      excerpt_separator: <!--more-->
+  - # Neither noindex nor sitemap in pages
+    scope:
+      path: 'page'
+    values:
+      sitemap: false
+
+# Other
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+  transliterated_header_ids: false
+
+# DEVELOPMENT CONFIG IN _config_dev.yml
