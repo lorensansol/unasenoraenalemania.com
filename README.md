@@ -34,6 +34,10 @@ terser _site/_assets/js/smooth-scroll.js --comments false --output assets/js/smo
 git add .;git commit -m "Actualización: `date +'%Y-%m-%d %H:%M:%S'`";git push
 ```
 
+## FALTA
+
+- critical path
+
 
 ## Explicar
 
