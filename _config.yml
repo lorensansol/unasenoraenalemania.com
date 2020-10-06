@@ -6,12 +6,12 @@ url: https://lorensansol.github.io
 baseurl: /unasenoraenalemania.com
 logo: /assets/img/logo.svg
 favicon: /assets/img/logo-sea-como-seo.png
-google_analytics: # UA-75330923-2
-google_site_verification: # 'Sb-MUAYWclN8UdYEC0-7YsKPFBAsrAPYNmM-k5QOXak'
+google_analytics: UA-2157126-26
+google_site_verification: 4Hd8UAELUYyZSkhwoCS1KSNKqEljt8MnRQzcfu7tfU4
 # google_adsense: # ca-pub-xxxxxxxxxxxxxxxx
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 email: '&#x75;&#x6E;&#x61;&#x73;&#x65;&#x6E;&#x6F;&#x72;&#x61;&#x65;&#x6E;&#x61;&#x6C;&#x65;&#x6D;&#x61;&#x6E;&#x69;&#x61;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;'
-disqus: # 'seacomoseo'
+disqus: 'una-senora-en-alemania'
 lang: es
 permalink: /:title
 authorbox: true
