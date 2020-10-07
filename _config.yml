@@ -84,7 +84,6 @@ defaults:
       description: false
       comments: true
       excerpt_separator: <!--more-->
-      is_post: true
   - # All drafts
     scope:
       path: ''
@@ -108,7 +107,6 @@ defaults:
       comments: false
       sitemap: false
       excerpt_separator: <!--more-->
-      is_post: true
   - # Neither noindex nor sitemap in pages
     scope:
       path: 'page'
