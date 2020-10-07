@@ -27,5 +27,5 @@ Señora
 
 ## Contacto
 
-[{{site.email}}](&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;{{site.email}}){: .btn.btn-primary}
-[@mariasaanchez](https://www.instagram.com/mariasaanchez/){: .btn.btn-primary target="_blank"}
+[{{site.email}}](&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;{{site.email}}){: .btn.btn-primary.mb-1}
+[@mariasaanchez](https://www.instagram.com/mariasaanchez/){: .btn.btn-primary.mb-1 target="_blank"}

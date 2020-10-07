@@ -18,7 +18,7 @@ authorbox: true
 author-links: true
 search: true
 lazy-load-comments: false # if not, comments load when clic
-critical-path-css: false
+critical-path-css: true
 
 # Authors
 authors:
@@ -84,7 +84,8 @@ defaults:
       description: false
       comments: true
       excerpt_separator: <!--more-->
-  - # All posts
+      is_post: true
+  - # All drafts
     scope:
       path: ''
       type: 'drafts'
@@ -107,6 +108,7 @@ defaults:
       comments: false
       sitemap: false
       excerpt_separator: <!--more-->
+      is_post: true
   - # Neither noindex nor sitemap in pages
     scope:
       path: 'page'

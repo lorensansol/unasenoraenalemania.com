@@ -2,6 +2,9 @@
 
 [![Una señora en Alemania](https://unasenoraenalemania.com/assets/img/logo.svg)](https://unasenoraenalemania.com/)
 
+
+## DEVELOPERS
+
 Instalar con terminal desde carpeta root:
 
 ```bash
@@ -36,20 +39,4 @@ git add .;git commit -m "Actualización: `date +'%Y-%m-%d %H:%M:%S'`";git push
 
 ## FALTA
 
-- critical path
-
-
-## Explicar
-
-- Título del artículo title: Presentación
-- Para añadir categorías, indicarlo así:
-  - Una sola -> "categories: General"
-  - Varias -> "categories: [General, Cultura, Molando]"
-- Los artículos ralacionados que aparecen se tomarán de la misma categoría que el post visualizado. Te recomiendo añadir siempre al menos una categoría, aunque se lleme "General"
-- Las etiquetas se usan exactamente igual que las categorías, solo que cambiando "categories" por "tags"
-- Imágenes principales en carpeta /assets/img/ y e indicar el nombre del archivo -> ej: "image: maria.jpg"
-- Si quieres índice, añadir "toc: true"
-
-- drafts
-- published: false
-- last_modified_at
+- instrucciones señora
