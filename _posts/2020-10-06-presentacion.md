@@ -1,7 +1,7 @@
 ---
 title: Presentación
 description: Soy María y sí, mis amigues me llaman Señora. Aún recuerdo a Anabel muy enfadada por llamarla señora el primer día que nos conocimos en Dortmund...
-categories: [General, Holi]
+categories: General
 image: /assets/img/maria.jpg
 toc: false
 # published: false
