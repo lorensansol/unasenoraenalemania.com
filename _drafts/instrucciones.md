@@ -95,6 +95,7 @@ Al acceder, veras una lista de carpetas y archivos con nombres raros. De entrada
       - Tutorial que explica de qué va esto y cómo escribir con este formato: [markdown.es](https://markdown.es/){: target="_blank"}.
         - _Nota_: el encabezado principal (el que empieza sólo por un numeral `#`) no hay que indicarlo, ya que mediante programación se obtiene de la cabecera `title`.
       - Editor online de este tipo de formato (por si quieres usar algo más visual, puedes copiar y pegar desde / hacia los archivos / este editor): [stackedit.io](https://stackedit.io/app){: target="_blank"}.
+      - Puedes usar emojis: 😍 💪😁👍
     - _Ejemplos_: Puedes ver el contenido del post [Presentación](https://github.com/lorensansol/{{ site.url | replace: 'https://', '' }}/blob/main/_posts/2020-10-06-presentacion.md){: target="_blank"} y este mismo post/borrador llamado [Instrucciones](https://github.com/lorensansol/{{ site.url | replace: 'https://', '' }}/blob/main/_drafts/2020-10-06-instrucciones.md){: target="_blank"} dándole a editar para que te hagas una idea del formato.
   - Sección de __previsualización__ del post.
     - Pues previsualizar cómo quedará el post (en cuanto al formato, pero en el blog se verá con los estilos, encabezado principal e imagen principal).
@@ -114,7 +115,7 @@ toc: false
 published: true
 last_modified_at: false
 ---
-¡Holi!
+¡Holi! 💃
 
 ¡Hoy salí a pasear! Y mirad qué foto más cuqui hice:
 
@@ -144,4 +145,8 @@ Te he implementado un sistema de Analítica mediante __Google Analitycs__ y te h
 
 [Analitycs](https://analytics.google.com/){: .btn.btn-primary target="_blank"}
 
-![señora](/assets/img/instrucciones/alumna.svg)
+Eso es todo, cualquier duda que tengas me comentas.
+
+¡Un saludo! 🤗
+
+![Alumna](/assets/img/instrucciones/alumna.svg)
