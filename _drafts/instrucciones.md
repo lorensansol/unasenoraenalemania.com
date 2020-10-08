@@ -118,7 +118,7 @@ last_modified_at: false
 
 ¡Hoy salí a pasear! Y mirad qué foto más cuqui hice:
 
-![](/assets/img/avatar.svg)
+![Yo sinedo yo](/assets/img/avatar.svg)
 </pre>
 
 
