@@ -97,7 +97,7 @@ Al acceder, veras una lista de carpetas y archivos con nombres raros. De entrada
       - Editor online de este tipo de formato (por si quieres usar algo más visual, puedes copiar y pegar desde / hacia los archivos / este editor): [stackedit.io](https://stackedit.io/app){: target="_blank"}.
     - _Ejemplos_: Puedes ver el contenido del post [Presentación](https://github.com/lorensansol/{{ site.url | replace: 'https://', '' }}/blob/main/_posts/2020-10-06-presentacion.md){: target="_blank"} y este mismo post/borrador llamado [Instrucciones](https://github.com/lorensansol/{{ site.url | replace: 'https://', '' }}/blob/main/_drafts/2020-10-06-instrucciones.md){: target="_blank"} dándole a editar para que te hagas una idea del formato.
   - Sección de __previsualización__ del post.
-    - Pues previsualizar cómo quedará el post (en cuanto al formato, pero __CREO__ que las imágenes no se puede previsualizar cómo quedarán).
+    - Pues previsualizar cómo quedará el post (en cuanto al formato, pero en el blog se verá con los estilos, encabezado principal e imagen principal).
   - Sección para __guardar cambios__ en el archivo.
     - Básicamente puedes dejarlo todo a como está por defecto y darle a `Commit changes`.
 
@@ -124,13 +124,13 @@ last_modified_at: false
 
 #### Borradores (drafts)
 
-Los borradores son exactamente __igual que los posts__, salvo que se colocan en la carpeta `_drafts` temporalmente con el __objetivo__ de poder __previsualizarlos__, incluyendo las imágenes (cosa que no se puede hacer desde github); y una vez terminados, mover los archivos a la carpeta `_posts`.
+Los borradores son exactamente __igual que los posts__, salvo que se colocan en la carpeta `_drafts` temporalmente con el __objetivo__ de poder __previsualizarlos__ en el propio blog; y una vez terminados, mover los archivos a la carpeta `_posts`.
 
 Dichos borradores los podrás ver en este enlace (verás que hay algunos ejemplos, como este mismo post de instrucciones que debes de dejar aquí como referencia):
 
 [Borradores]({{ site.baseurl }}/drafts/){: .btn.btn-primary target="_blank"}
 
-No obstante, si no tienes interés en previsualizar cómo quedará finalmente, como alternativa de usar esta carpeta, puedes escribir los posts en la carpeta `_posts` directamente y simplemente colocas la opción `published: false` mientras no lo quieras mostrar.
+No obstante, si no tienes interés en previsualizar cómo quedará finalmente (quizás te sirva con previsualizar directamente desde github), como alternativa de usar esta carpeta, puedes escribir los posts en la carpeta `_posts` directamente y simplemente colocas la opción `published: false` mientras no lo quieras mostrar.
 
 ## Sistema de comentarios (disqus.com)
 
