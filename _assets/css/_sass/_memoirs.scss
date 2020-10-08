@@ -438,7 +438,7 @@ img, img:hover {
   }
   code {
       font-size: 15px;
-      @extend .badge, .badge-secondary, .font-weight-normal;
+      @extend .badge, .badge-secondary, .d-inline, .font-weight-normal;
       white-space: normal;
       padding-left: .5em;
       padding-right: .5em;

@@ -1,10 +1,10 @@
 ---
 title: Ejemplo sin fecha
 categories: General
-image: /assets/img/maria.jpg
+image: /assets/img/instrucciones/alumna.jpg
 toc: false
-#published: false
-#last_modified_at: 2020-09-06
+published: true
+last_modified_at:
 ---
 Post borrador de ejemplo sin fecha.
 

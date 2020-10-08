@@ -1,6 +1,6 @@
 # unasenoraenalemania.com
 
-[![Una señora en Alemania](https://unasenoraenalemania.com/assets/img/logo.svg)](https://unasenoraenalemania.com/)
+[![Una señora en Alemania](/assets/img/logo.svg)](https://unasenoraenalemania.com/)
 
 
 ## DEVELOPERS
@@ -22,7 +22,7 @@ bundle exec jekyll serve --watch --config _config.yml,_config_dev.yml
 JEKYLL_ENV=production bundle exec jekyll serve --watch
 ```
 
-Subir a producción previo minificar y purgar css + minificar js (no olvidar descomentar site.critical-path-css y comentar site.include en \_config.yml):
+Subir a producción previo minificar y purgar css + minificar js (no olvidar site.critical-path-css):
 
 ```bash
 # purgar css
@@ -36,7 +36,3 @@ terser _site/_assets/js/smooth-scroll.js --comments false --output assets/js/smo
 # deploy con fecha actual
 git add .;git commit -m "Actualización: `date +'%Y-%m-%d %H:%M:%S'`";git push
 ```
-
-## FALTA
-
-- instrucciones señora

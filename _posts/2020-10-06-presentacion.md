@@ -4,8 +4,8 @@ description: Soy María y sí, mis amigues me llaman Señora. Aún recuerdo a An
 categories: General
 image: /assets/img/maria.jpg
 toc: false
-# published: false
-# last_modified_at: 2020-10-07
+published: true
+last_modified_at:
 ---
 ¡Señoras y señores!
 
@@ -23,7 +23,7 @@ En definitiva, aquí vais a descubrir Alemania junto a mí a la misma vez que yo
 
 Señora
 
-![María Sánchez]({{ site.baseurl }}/assets/img/avatar.jpg)
+![María Sánchez](/assets/img/avatar.jpg)
 
 ## Contacto
 
