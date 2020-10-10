@@ -12,7 +12,8 @@ Hoy os cuento cómo fue mi experiencia y lo que tuve que hacer para volar a Düs
 
 Volé el 19 de septiembre de 2020. En este momento las normas para entrar al país eran muy concretas: 
 
-⁃	Rellenar un papel que te proporciona la aerolínea al hacer el check in on line (también te lo facilitan en el avión por si no has podido imprimirlo) 
+⁃	Rellenar un papel que te proporciona la aerolínea al hacer el check in on line (también te lo facilitan en el avión por si no has podido imprimirlo)
+
 ⁃	PCR a la llegada en el aeropuerto completamente gratuito 
 * También está la opción de que llegues con la PCR hecha con menos de 48 horas, traducida al alemán (traducción jurada). Yo me hice la serología en Murcia antes de ir porque quería estar segura antes de ver a André. 
 
