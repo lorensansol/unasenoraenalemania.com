@@ -1,7 +1,7 @@
 ---
 title: Volar a Alemania en tiempos de COVID
 categories: [General, cultura]
-image: /assets/img/maria-maletas.jpg
+image: /assets/img/maria-maletas.JPG 
 toc: false
 published: true
 
@@ -19,11 +19,11 @@ Volé el 19 de septiembre de 2020. En este momento las normas para entrar al pa�
 
 Una vez en el avión las azafatas nos explicaron que teníamos que entregar el documento antes de bajar del avión y repartieron a quien no lo tenía impreso. Cuando bajas y recoges las maletas ya está la policía preparada para redirigirte al lugar donde hacían las pruebas. Además, encuentras cada pocos metros un cartel como este:
 
-![Ready to go](/assest/img/corona-test.jpg)
+![Ready to go](/assest/img/corona-test.JPG)
 
 Hice una cola de 10 minutos como mucho para dar mis datos, la verdad es que fue muy rápido. Te preguntan la dirección en la que vas a estar los próximos 15 días y un número de teléfono para ponerse en contacto contigo en caso de que des positivo en la prueba. Te entregan unos papeles en los que está un código QR donde al cabo de 2 días puedes comprobar si tu prueba es positiva o negativa.
 
-![Aquí te toman los datos](/assest/img/covid-tunel.jpg)
+![Aquí te toman los datos](/assest/img/covid-tunel.JPG)
 
 Una vez tienes tu código QR esperas otra cola para entrar en un túnel blanco lleno de personas con los EPIS. Y si, me dio un poco de impresión ver eso así. Pero fue tan rápido que no me dio mucho tiempo a estar nerviosa. En menos de 5 minutos me habían hecho la prueba y ya estaba saliendo en busca de André. 
 
