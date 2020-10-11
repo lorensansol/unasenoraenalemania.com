@@ -25,7 +25,7 @@ Hice una cola de 10 minutos como mucho para dar mis datos, la verdad es que fue 
 
 ![Aquí te toman los datos](assets/img/covid-tunel.jpg) 
 
-Una vez tienes tu código QR esperas otra cola para entrar en un túnel blanco lleno de personas con los EPIS. Y si, me dio un poco de impresión ver eso así. Pero fue tan rápido que no me dio mucho tiempo a estar nerviosa. En menos de 5 minutos me habían hecho la prueba y ya estaba saliendo en busca de André. 
+Una vez tienes tu código QR esperas otra cola para entrar en un túnel blanco lleno de personas con los EPIS. Y sí, me dio un poco de impresión ver eso así. Pero fue tan rápido que no me dio mucho tiempo a estar nerviosa. En menos de 5 minutos me habían hecho la prueba y ya estaba saliendo en busca de André. 
 
 A los dos días me llegó una notificación de que era negativo en COVID (lo cual ya sabía) pero aun así oficialmente tenía que estar en cuarentena hasta recibir los resultados. Fue todo muy rápido y fácil. 
 
