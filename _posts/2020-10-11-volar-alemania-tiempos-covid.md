@@ -13,7 +13,7 @@ Hoy os cuento cómo fue mi experiencia y lo que tuve que hacer para volar a Düs
 
 Volé el 19 de septiembre de 2020. En este momento las normas para entrar al país eran muy concretas: 
 
-- Rellenar un papel que te proporciona la aerolínea al hacer el check in on line (también te lo facilitan en el avión por si no has podido imprimirlo)
+- Rellenar un papel que te proporciona la aerolínea al hacer el check-in online (también te lo facilitan en el avión por si no has podido imprimirlo)
 - PCR a la llegada en el aeropuerto completamente gratuito 
 - También está la opción de que llegues con la PCR hecha con menos de 48 horas, traducida al alemán (traducción jurada). Yo me hice la serología en Murcia antes de ir porque quería estar segura antes de ver a André. 
 
@@ -21,7 +21,7 @@ Una vez en el avión las azafatas nos explicaron que teníamos que entregar el d
 
 ![Ready to go](assets/img/corona-test.jpg)   
 
-Hice una cola de 10 minutos como mucho para dar mis datos, la verdad es que fue muy rápido. Te preguntan la dirección en la que vas a estar los próximos 15 días y un número de teléfono para ponerse en contacto contigo en caso de que des positivo en la prueba. Te entregan unos papeles en los que está un código QR donde al cabo de 2 días puedes comprobar si tu prueba es positiva o negativa.
+Hice una cola de 10 minutos como mucho para dar mis datos, la verdad es que fue muy rápido. Te preguntan la dirección en la que vas a estar los próximos 15 días y un número de teléfono para ponerse en contacto contigo en caso de que des positivo en la prueba. Te entregan unos papeles entre los que está un código QR donde al cabo de 2 días puedes comprobar si tu prueba es positiva o negativa.
 
 ![Aquí te toman los datos](assets/img/covid-tunel.jpg) 
 
@@ -33,6 +33,6 @@ La gestión fue impecable y la verdad es que quedé muy contenta.
 
 Lo gracioso y donde veo la diferencia entre mi cultura y la alemana es que cuando llegué, le conté todo a André súper sorprendida y contenta de la eficacia y él me contestó como: si, lo normal, ¿no? 
 
-Creo que estoy muy mal acostumbrada a que en España muchas de las cosas se gestionen desde el caos. ¿Qué opináis? Ya os contaré cómo fue la primera vez que volví desde Alemania a España en Julio.... muy gracioso y seguro. 
+Creo que estoy muy mal acostumbrada a que en España algunas cosas se gestionen desde el caos. ¿Qué opináis? Ya os contaré cómo fue la primera vez que volví desde Alemania a España en Julio.... muy gracioso y seguro. 
 
 Señora
