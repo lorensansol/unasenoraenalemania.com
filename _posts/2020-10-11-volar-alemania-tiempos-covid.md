@@ -33,6 +33,6 @@ La gestión fue impecable y la verdad es que quedé muy contenta.
 
 Lo gracioso y donde veo la diferencia entre mi cultura y la alemana es que cuando llegué, le conté todo a André súper sorprendida y contenta de la eficacia y él me contestó como: sí, lo normal, ¿no? 
 
-Creo que estoy muy mal acostumbrada a que en España algunas cosas se gestionen desde el caos. ¿Qué opináis? Ya os contaré cómo fue la primera vez que volví desde Alemania a España en Julio.... muy gracioso y seguro. 
+Creo que estoy muy mal acostumbrada a que en España algunas cosas se gestionen desde el caos. ¿Qué opináis? Ya os contaré cómo fue la primera vez que volví desde Alemania a España en julio.... muy gracioso y seguro. 
 
 Señora
