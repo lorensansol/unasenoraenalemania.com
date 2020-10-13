@@ -1,6 +1,6 @@
 ---
 title: Una cerveza en Phoenix See
-categories: General, Cultura 
+categories: General Cultura Planes
 image: /assets/img/senora-cerveza-si.jpg
 toc: true
 published: true
@@ -41,7 +41,7 @@ Recuerdo que la primera vez que brindé con André y no le miré fijamente a los
 ¡Para la próxima ya sabéis como brindar con un alemán! 
 
 
-En mi [`instagram`{:https://www.instagram.com/mariasaanchez/}] tenéis un video de reels en el que salimos André y yo en Phoenix See, puedes verlo también si te apetece! 
+En mi `instagram` tenéis un video de reels en el que salimos André y yo en Phoenix See, puedes verlo también si te apetece! 
 
 
 Señora 
