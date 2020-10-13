@@ -20,7 +20,7 @@ Además de poder beber en la calle, se puede beber en el transporte público. Es
 
 Phoenix Sea es un lago que hay a las afueras de Dortmund donde sale la gente a pasear, hacer deporte o simplemente a pasar el rato, como hicimos André y yo. De hecho, fuimos a celebrar que era viernes y que no estaba lloviendo. 
 
-![Houses](/assets/img/phoenix-sea-casas.jpg) 
+![fun](/assets/img/andre-maria.jpg) 
 
 La lluvia es una de las cosas que más me ha costado asimilar. En Murcia llueve poco, y cuando llueve se lía bastante. Así que me he tenido que acostumbrar a salir a hacer deporte, aunque llueva, porque si no… no saldría. 🌧☂
 
@@ -41,7 +41,7 @@ Recuerdo que la primera vez que brindé con André y no le miré fijamente a los
 ¡Para la próxima ya sabéis como brindar con un alemán! 
 
 
-En mi [`instagram`{:https://www.instagram.com/mariasaanchez/} tenéis un video de reels en el que salimos André y yo en Phoenix See, puedes verlo también si te apetece! 
+En mi [`instagram`{:https://www.instagram.com/mariasaanchez/}] tenéis un video de reels en el que salimos André y yo en Phoenix See, puedes verlo también si te apetece! 
 
 
 Señora 
