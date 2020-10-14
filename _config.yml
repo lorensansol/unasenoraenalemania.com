@@ -17,7 +17,7 @@ permalink: /:title
 authorbox: true
 author-links: true
 search: true
-lazy-load-comments: false # if not, comments load when clic
+lazy-load-comments: true # if false, comments load when clic
 critical-path-css: true
 
 # Authors
