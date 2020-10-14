@@ -30,9 +30,9 @@ purgecss --css _site/_assets/css/styles.css --content _site/**/*.html,_site/asse
 
 # minificar archivos js
 terser _site/_assets/js/scripts.js --comments false --output assets/js/scripts.js
-terser _site/_assets/js/lunr.js --comments false --output assets/js/lunr.js
-terser _site/_assets/js/lunrsearchengine.js --comments false --output assets/js/lunrsearchengine.js
 terser _site/_assets/js/smooth-scroll.js --comments false --output assets/js/smooth-scroll.js
+terser _site/_assets/js/lunr.js --comments false --output assets/js/lunr.js
+# terser _site/_assets/js/lunrsearchengine.js --comments false --output assets/js/lunrsearchengine.js
 
 # deploy con fecha actual
 git add .;git commit -m "Actualización: `date +'%Y-%m-%d %H:%M:%S'`";git push
