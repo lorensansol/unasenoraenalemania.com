@@ -31,7 +31,8 @@
 
 	// Active search.js wen clic in input
 	document.getElementById('lunrsearch').addEventListener('click', function(){
-		loadScript('{{ site.baseurl }}/assets/js/search.js');
+		loadScript('{{ site.baseurl }}/assets/js/lunr.js');
+		loadScript('{{ site.baseurl }}/assets/js/lunrsearchengine.js');
 	});
 {% endif %}
 

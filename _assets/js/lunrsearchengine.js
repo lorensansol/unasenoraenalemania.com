@@ -1,3 +1,6 @@
+---
+layout: null
+---
 {% assign counter = 0 %}
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
     "id": {{ counter }},
@@ -98,12 +101,6 @@ function lunr_search(term) {
     return false;
 }
 
-// $(function() {
-//     $("#lunrsearchresults").on('click', '#btnx', function () {
-//         $('#lunrsearchresults').hide( 5 );
-//         $( "body" ).removeClass( "modal-open" );
-//     });
-// });
 function clickCloseResults() {
     setTimeout(function(){
         document.querySelectorAll('.btnx').forEach( function(e){
