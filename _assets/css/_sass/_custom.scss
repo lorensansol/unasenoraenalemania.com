@@ -48,7 +48,8 @@ span[onclick]:not(.btn):hover {
 @if $btn-type-pill {
     .btn,
     .badge,
-    .form-control {
+    .form-control,
+    strong {
         border-radius: 1.5rem;
     }
 }
@@ -62,7 +63,8 @@ span[onclick]:not(.btn):hover {
 
 // Correct min-width in btn + badge
 .badge.btn,
-.btn-up {
+.btn-up,
+strong {
     min-width: inherit !important;
 }
 
@@ -104,4 +106,10 @@ span[onclick]:not(.btn):hover {
 // Correct the shadows
 .shadow {
     box-shadow: 0 1px 0 1px rgba(0,0,0,0.07) !important
+}
+
+// Strong like badge
+strong {
+    @extend .badge, .badge-secondary, .d-inline, .font-weight-normal;
+    font-weight: bold !important;
 }
