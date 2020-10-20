@@ -4,6 +4,7 @@ categories: [General, cultura, COVID]
 image: /assets/img/maria_mascarilla.jpg
 toc: false
 published: true
+last_modified_at: false
 
 ---
 
@@ -15,7 +16,7 @@ España es el único país de Europa que puso de forma obligatoria el uso de mas
 
 En Alemania a partir del 10 de octubre se pusieron más restricciones en algunas zonas de riesgo. Cuando se superan los 50 contagios por cada 100.000 habitantes se implantan unas medidas como la de toque de queda, no servir alcohol en los restaurantes, cierre de bares a las 22h, etc. ¡Y mascarilla en las calles!
 
-FOTO
+![Benidorm](/assets/img/benidorm_maria.jpg) 
 
 Yo viví la salida del confinamiento y la vuelta a la normalidad en Benidorm. Me sentí más que segura en esa ciudad, no solo por las mascarillas sino por todas las medidas que se implantaron para sacar adelante a la ciudad. (Menudo equipazo hay detrás de todo esto: Visit Benidorm) 
 
@@ -23,12 +24,13 @@ Ahora imagínate que después de acostumbrarte a la ‘’nueva normalidad’’
 
 He de reconocer que el primer día que salí al centro de la ciudad me agobié, pero lo que menos me choca al final no es eso. Imagínate un puesto de crepes en la calle y que esta sea la imagen: 
 
-FOTO
+![Puesto comida](/assets/img/crepes.jpg) 
 
 La chica que los está sirviendo va sin mascarilla. 
 
 En la siguiente imagen podéis ver que la chica de la caja tampoco lleva mascarilla. Hay una pantalla que separa a la cajera del cliente, pero nada que proteja al cliente…
 
+![DM](/assets/img/cajera_dm.jpg) 
 
 En cuanto a los restaurantes (solo he ido a uno) veo que funciona más o menos igual. Entras con tu mascarilla y una vez sentado te la quitas. Además, hay pantallas que separan unas mesas de otras. 
 
