@@ -38,14 +38,14 @@ En cuanto a los restaurantes (solo he ido a uno) veo que funciona más o menos i
 El dentista… Muy a mi pesar tuve que ir al dentista de urgencia. Lo que encontré fue muy muy diferente al dentista que he visto en España. En España tanto auxiliares como recepcionistas y doctores llevan capas y capas de protección. Aquí me recibió una recepcionista sin mascarilla y el doctor que me atendió salió de un gabinete con un paciente y entró directamente al mío, sin mascarilla. Se la puso para tratarme. Todo como antes del COVID, vaya. 
 
 
-Mi opinión: 
+### Mi opinión: 
 
 A veces creo que me paso cuando comparo España con Alemania, y muchas veces me hacen pensar si somos unos exagerados en España por tantas medidas. Pero realmente, sea lo que sea, creo que lo más importante es transmitir el sentimiento de seguridad, que sepas que te están cuidando. Porque cuando yo veo un puesto de comida y la persona no tiene mascarilla, no me siento ni segura ni a gusto para comerme esa comida. Y mucho menos en el dentista que está todo en contacto directo. No sé, es un tema complicado
 
 Me gustaría muchísimo saber qué opináis. Sé que hay gente que me lee que está en Alemania, UK, Polonia, Holanda etc. ¡contadme qué pasa allí!  ¡Al final del post tenéis los comentarios que pueden ser totalmente anónimos, podéis usarlos si os apetece opinar!
 
 
-Dato curioso: 
+### Dato curioso: 
 
 André cuando fue a Benidorm a visitarme dijo que se sentía muy seguro en la ciudad, que tenía ganas de salir a la calle y hacer cosas porque se sentía seguro de poder hacerlo. En Alemania no había salido a hacer ni la mitad de cosas que hicimos juntos allí, y ahora entiendo por qué. 
 
