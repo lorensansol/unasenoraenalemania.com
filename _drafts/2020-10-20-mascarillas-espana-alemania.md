@@ -18,7 +18,7 @@ En Alemania a partir del 10 de octubre se pusieron más restricciones en algunas
 
 ![Benidorm](/assets/img/benidorm_maria.jpg) 
 
-Yo viví la salida del confinamiento y la vuelta a la normalidad en Benidorm. Me sentí más que segura en esa ciudad, no solo por las mascarillas sino por todas las medidas que se implantaron para sacar adelante a la ciudad. (Menudo equipazo hay detrás de todo esto: __Visit Benidorm__) 
+Yo viví la salida del confinamiento y la vuelta a la normalidad en Benidorm. Me sentí más que segura en esa ciudad, no solo por las mascarillas sino por todas las medidas que se implantaron para sacar adelante a la ciudad. (Menudo equipazo hay detrás de todo esto: __Visit Benidorm__ (https://www.visitbenidorm.es) ) 
 
 Ahora imagínate que después de acostumbrarte a la ‘’nueva normalidad’’ donde hay mascarillas en todas partes, gel desinfectante y medidas de seguridad, te chocas con una normalidad más nueva todavía y que en comparación… parece que no hay COVID. 
 
