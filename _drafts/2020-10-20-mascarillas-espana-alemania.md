@@ -1,5 +1,5 @@
 ---
-title: Mascarillas y seguridad: España vs Alemania
+title: Mascarillas y seguridad: 'España vs Alemania'
 categories: [General, cultura, COVID]
 image: /assets/img/maria_mascarilla.jpg
 toc: false
