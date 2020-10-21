@@ -22,7 +22,7 @@ Yo viví la salida del confinamiento y la vuelta a la normalidad en Benidorm. Me
 
 Ahora imagínate que después de acostumbrarte a la ‘’nueva normalidad’’ donde hay mascarillas en todas partes, gel desinfectante y medidas de seguridad, te chocas con una normalidad más nueva todavía y que en comparación… parece que no hay COVID. 
 
-He de reconocer que el primer día que salí al centro de la ciudad me agobié, pero lo que menos me choca al final no es eso. Imagínate un puesto de crepes en la calle y que esta sea la imagen: 
+He de reconocer que el primer día que salí al centro de la ciudad me agobié, pero lo que más me choca al final no es eso. Imagínate un puesto de crepes en la calle y que esta sea la imagen: 
 
 ![Puesto comida](/assets/img/crepes.jpg) 
 
@@ -40,13 +40,16 @@ El dentista… Muy a mi pesar tuve que ir al dentista de urgencia. Lo que encont
 
 ### Mi opinión: 
 
-A veces creo que me paso cuando comparo España con Alemania, y muchas veces me hacen pensar si somos unos exagerados en España por tantas medidas. Pero realmente, sea lo que sea, creo que lo más importante es transmitir el sentimiento de seguridad, que sepas que te están cuidando. Porque cuando yo veo un puesto de comida y la persona no tiene mascarilla, no me siento ni segura ni a gusto para comerme esa comida. Y mucho menos en el dentista que está todo en contacto directo. No sé, es un tema complicado
+A veces creo que me paso cuando comparo España con Alemania, y muchas veces me hacen pensar si somos unos exagerados en España por tantas medidas. Pero realmente, sea lo que sea, creo que lo más importante es transmitir el sentimiento de seguridad, que sepas que te están cuidando. Porque cuando yo veo un puesto de comida y la persona no tiene mascarilla, no me siento ni segura ni a gusto para comerme esa comida. Y mucho menos en el dentista que está todo en contacto directo. No sé, es un tema complicado.
 
-Me gustaría muchísimo saber qué opináis. Sé que hay gente que me lee que está en Alemania, UK, Polonia, Holanda etc. ¡contadme qué pasa allí!  ¡Al final del post tenéis los comentarios que pueden ser totalmente anónimos, podéis usarlos si os apetece opinar!
+Me gustaría muchísimo saber qué opináis. Sé que hay gente que me lee que está en Alemania, UK, Polonia, Holanda, etc. ¡Contadme qué pasa allí!  ¡Al final del post tenéis los comentarios que pueden ser totalmente anónimos, podéis usarlos si os apetece opinar!
 
 
 ### Dato curioso: 
 
-André cuando fue a Benidorm a visitarme dijo que se sentía muy seguro en la ciudad, que tenía ganas de salir a la calle y hacer cosas porque se sentía seguro de poder hacerlo. En Alemania no había salido a hacer ni la mitad de cosas que hicimos juntos allí, y ahora entiendo por qué. 
+Cuando André fue a Benidorm a visitarme dijo que se sentía muy seguro en la ciudad, que tenía ganas de salir a la calle y hacer cosas porque se sentía seguro de poder hacerlo. En Alemania no había salido a hacer ni la mitad de cosas que hicimos juntos allí, y ahora entiendo por qué. 
 
 El 70% de los turistas se sentían más seguros al viajar a España. Y digo yo, si el alemán se siente seguro en España, algo estaremos haciendo bien… 
+
+
+Señora 
