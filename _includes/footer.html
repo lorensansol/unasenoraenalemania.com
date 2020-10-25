@@ -38,8 +38,17 @@
                     <svg class="icon-inline"><use xlink:href="#icon-cookie"></use></svg>
                     <span id="cookies-message-toggle">Cookies</span>
                 </span>
+                <span class="d-inline-block m-2">
+                    <i class="fas fa-paint-brush"></i>
+                    <span class="text-muted d-inline d-md-none">Diseño web</span>
+                    <br class="d-inline d-md-none">
+                    {% if page.url == '/' %}
+                        <a href="https://seacomoseo.com/diseno-paginas-web" target="_blank">seacomoseo.com</a>
+                    {% else %}
+                        <span onclick="window.open('https://seacomoseo.com/diseno-paginas-web','_blank')">seacomoseo.com</span>
+                    {% endif %}
+                </span>
             </div>
-
         </div>
     </div>
 </footer>
