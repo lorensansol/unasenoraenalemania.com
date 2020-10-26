@@ -53,7 +53,7 @@ En Alemania las cosas van diferentes. Al menos en casa de André.
 -	Comida a las 12/13: un sándwich, lo que sobró de la cena de ayer, una ensaladita, o lo que pilles a mano fácil. 
 Cena de 16h a 20h, en cualquier momento puede ocurrir, y siempre es de forma espontánea. Aquí se comen unos macarrones, un estofado, carne de kebab, la Curry Wurst y cosas así.
 
-Existe el maravilloso momento del `Abend Brot`. En casa de André no lo hacen, van un poco más a lo que surja (lo cual me lleva loca). El Abend Brot es una especie de merienda/cena que hacen: un poco de pan, embutidos y quesos. Gracias a una historia de [__@adrianov__] (https://www.instagram.com/adrianov.b/?hl=es) lo descubrí.
+Existe el maravilloso momento del `Abend Brot`. En casa de André no lo hacen, van un poco más a lo que surja (lo cual me lleva loca). El Abend Brot es una especie de merienda/cena que hacen: un poco de pan, embutidos y quesos. Gracias a una historia de [__@adrianov__](https://instagram.com/adrianov.b?igshid=6rrvbqeakvir) lo descubrí.
 
 
 Sigo en proceso de adaptación a estos horarios y este tipo de comidas, pero a lo que creo que jamás me acostumbraré es a comerme un plato de estofado a las 17:00h. Cuando vivamos solos en nuestra propia casa (capítulo muy gracioso que ya contaré) no creo que sea así.
