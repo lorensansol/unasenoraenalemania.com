@@ -21,9 +21,11 @@ La madre de André la sirvió con ensalada de patata, que hasta ahora es de mis 
 
 ![ENSALADAS](/assets/img/ensaladas_patatas.jpg)
 
+
 Aquí el platazo que se comió André, una pinta increíble:
 
 ![ENSALADAS](/assets/img/plato_tipico_aleman.jpg)
+
 
 
 `Datos curiosos y diferencia cultural`
@@ -32,18 +34,22 @@ Voy a hablar siempre desde mi perspectiva, y me gustaría mucho leer la vuestra.
 
 En España está muy claro: 
 
-Desayuno (08:00h), 
-Almuerzo 10:30/11:00h)
-Comida 13h/14h
-Merienda 17h 
-Cena (21h/22h) 
+Desayuno 🥣 08:00h
+
+Almuerzo 🥪 10:30/11:00h
+
+Comida 🥘🥗 13h/14h
+
+Merienda 🍓🥛17h 
+
+Cena 🐟🍴 21h/22h
 
 
 Más o menos y dependiendo de la costumbre de cada uno. Y yo como una buena señora, tengo mis horas y mis costumbres muy claras.
 
 En Alemania las cosas van diferentes. Al menos en casa de André.
 
--	Desayunas un café y te vas corriendo a trabajar porque empiezas a ser productivo a las 7 de la mañana.
+-	Desayunas un café ☕ y te vas corriendo a trabajar porque empiezas a ser productivo a las 7 de la mañana.
 -	Comida a las 12/13: un sándwich, lo que sobró de la cena de ayer, una ensaladita, o lo que pilles a mano fácil. 
 Cena de 16h a 20h, en cualquier momento puede ocurrir, y siempre es de forma espontánea. Aquí se comen unos macarrones, un estofado, carne de kebab, la Curry Wurst y cosas así.
 
