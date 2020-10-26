@@ -51,7 +51,7 @@ Más o menos y dependiendo de la costumbre de cada uno. Y yo como una buena señ
 En Alemania las cosas van diferentes. Al menos en casa de André.
 
 -	Desayunas un café ☕ y te vas corriendo a trabajar porque empiezas a ser productivo a las 7 de la mañana.
--	Comida a las 12/13: un sándwich, lo que sobró de la cena de ayer, una ensaladita, o lo que pilles a mano fácil. 
+-	Comida a las 12h/13h: un sándwich, lo que sobró de la cena de ayer, una ensaladita, o lo que pilles a mano fácil. 
 - Cena de 16h a 20h, en cualquier momento puede ocurrir, y siempre es de forma espontánea. Aquí se comen unos macarrones, un estofado, carne de kebab, la Curry Wurst y cosas así.
 
 Existe el maravilloso momento del `Abend Brot`. En casa de André no lo hacen, van un poco más a lo que surja (lo cual me lleva loca). El Abend Brot es una especie de merienda/cena que hacen: un poco de pan, embutidos y quesos. Gracias a una historia de [__@adrianov__](https://instagram.com/adrianov.b?igshid=6rrvbqeakvir) lo descubrí.
@@ -83,10 +83,9 @@ En cuanto a la alimentación que tienen aquí solo puedo comentar lo que vivo en
 
 `Comida:`
 
--	En el supermercado encuentras de todo lo que Carlos Ríos prohíbe. Pasillos interminables de golosinas, dulces y chocolates, frutos secos garrapiñados. 
+-	En el supermercado encuentras de todo lo que Carlos Ríos prohíbe. Pasillos interminables de golosinas, dulces, chocolates o frutos secos garrapiñados. 
 -	Tienen mucha variedad de todo, muchos tipos de col, aliños, salsas, condimentos, infinitas formas de hacer dulces. Muy inspirado en la forma de los supermercados en América. Mientras que en la sección de conservas en Mercadona es de quizás medio pasillo, aquí cuentan con por lo menos un pasillo entero de cosas diferentes. 
 - También hay sección de comida más sana, por supuesto. Hablo realmente de lo que más se ve y más me choca. 
--	Tienen mucha variedad de todo, muchos tipos de col, aliños, salsas, condimentos, infinitas formas de hacer dulces. Muy inspirado en la forma de los supermercados en América. Mientras que en la sección de conservas en Mercadona es de quizás medio pasillo, aquí cuentan con por lo menos un pasillo entero de cosas diferentes. 
 -	En cuanto a precios, si es verdad que todo es un poco más caro que en España, pero creo que buscando bien el supermercado y con truquitos podemos sobrevivir con 50€ a la semana y sobrando comida. 
 
 
