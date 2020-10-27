@@ -57,7 +57,7 @@ En Alemania las cosas van diferentes. Al menos en casa de André.
 Existe el maravilloso momento del `Abend Brot`. En casa de André no lo hacen, van un poco más a lo que surja (lo cual me lleva loca). El Abend Brot es una especie de merienda/cena que hacen: un poco de pan, embutidos y quesos. Gracias a una historia de [__@adrianov__](https://instagram.com/adrianov.b?igshid=6rrvbqeakvir) lo descubrí.
 
 
-Sigo en proceso de adaptación a estos horarios y este tipo de comidas, pero a lo que creo que jamás me acostumbraré es a comerme un plato de estofado a las 17:00h. Cuando vivamos solos en nuestra propia casa (capítulo muy gracioso que ya contaré) no creo que sea así.
+Sigo en proceso de adaptación a estos horarios y este tipo de comidas, pero a lo que creo que jamás me acostumbraré es a comerme un plato de estofado a las 17:00. Cuando vivamos solos en nuestra propia casa (capítulo muy gracioso que ya contaré) no creo que sea así.
 
 
 Hablemos de costumbres… Para mi comer significa comer algo salado. Jamás a la hora de la comida he comido tarta. Pues aquí pasa. ¿Qué comemos hoy? Ah, hay tarta de ayer. Para mí eso sería postre… Hay otro plato típico que la madre de André hace y está riquísimo, pero es dulce. Cuando vuelva a hacerlo os pongo aquí la receta. Es bastante curioso. 
