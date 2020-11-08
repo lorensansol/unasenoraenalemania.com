@@ -1,5 +1,5 @@
 ---
-title: Comida típica alemana y sus hábitos 
+title: Cómo se vive el fútbol en Dortmund 
 categories: [General, cultura]
 image: /assets/img/bvb.jpg
 toc: false
