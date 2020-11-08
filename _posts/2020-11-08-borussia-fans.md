@@ -63,6 +63,8 @@ Los 90 minutos más intensos de mi vida.
 Un día se me ocurrió jugar a que sé hacer cupcakes, los decoré con colores y con sus recipientes bonitos. Hice azul, rojo y verde. Mal María… Muy mal. La tía muy decepcionada solo pudo comerse el verde, porque claro, Schalke es azul y Bayern de Munich es rojo… ¿Cómo iba a traicionar así a su equipo favorito? 
 
 Aquí como ya he dicho, es muy común que los coches vayan decorados con cosas de los equipos. Si estás fuera de Dortmund y ves un coche con decoración de Borussia te alegras un montón y si pueden hasta lo saludan. Pero si ves decoración de otro equipo (Sobretodo Schalke y Bayern) dentro de Dortmund, seguramente se lleven un insulto. 
+
+
 ¡Contadme futboleros y futboleras! ¿Son demasiado fans aquí? ¿Es más normal de lo que me creo? 
 
 
