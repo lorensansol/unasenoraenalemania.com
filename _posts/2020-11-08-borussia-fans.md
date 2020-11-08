@@ -19,11 +19,11 @@ Aquí el fútbol se vive de una forma muy intensa. Cuando estuve de Erasmus tuve
 
 ![PERRAS](/assets/img/perras.jpg)
 
-Antes de que empiece el partido cantan una canción todos juntos ‘’You never walk alone’’. Y durante cada minuto que dura el partido los ultras no paran de gritar, animar ( y a veces liarla un poquito)
+Antes de que empiece el partido cantan una canción todos juntos ‘’You never walk alone’’. Y durante cada minuto que dura el partido los ultras no paran de gritar, animar y a veces liarla un poquito.
 
 En mi instargam podéis ver un vídeo en historias destacadas: [__@mariasaanchez__](https://instagram.com/mariasaanchez?igshid=1c2p7q7kx6a0s)
 
-![PERRAS](/assets/img/partido.jpg)
+![PARTIDO](/assets/img/partido.jpg)
 
 
 Cuando describen a la afición del Borussia no están exagerando. En cada rincón de la ciudad te recuerdan algo referente al equipo. El color negro y amarillo en todos lados, coches con pegatinas de BVB, banderas, cocinas exclusivas del equipo, infinitas tiendas dedicadas al merchandising incluso casas decoradas con los colores del equipo.  
@@ -31,29 +31,30 @@ Cuando describen a la afición del Borussia no están exagerando. En cada rincó
 André y yo estamos preparando el piso donde vamos a vivir y tuvimos que cambiar las paredes (ya lo contaré) Debajo del papel pintado encontramos el logo del Borussia. 
 
 
-![PERRAS](/assets/img/pared.jpg)
+![PARED](/assets/img/pared.jpg)
 
 
-Pero no solo eso. Hemos tenido que dar de alta la luz, y por apoyar al equipo con una donación de 75 céntimos si no me equivoco, nos dieron merchandising del equipo y nuestra factura irá con el logo y esas cosas. 
+Pero no solo eso. Hemos tenido que dar de alta la luz y por apoyar al equipo con una donación de 75 céntimos si no me equivoco, nos dieron merchandising del equipo y nuestra factura irá con el logo y esas cosas. 
 
 ![FACTURA](/assets/img/factura.jpg)
 
 
-´Cómo se vive un partido en familia ‘Borusse’:´
+´Cómo se vive un partido en familia ‘Borusse’´
 
 
 Cada vez que hay partido normalmente la familia de André se junta en una casa a verlo. Hasta ahí todo normal. 
 
 El primer día que formé parte del ritual, me explicaron que es lo que podía y lo que no podía hacer. 
 
-*Importante* El partido era Schalke – Dortmund. Una bomba de partido porque se odian entre sí. Pregunté la razón y no hay ninguna clara. Se supone que se pelearon una vez y ale, enemigos hasta morir. 
+*Importante* :  El partido era Schalke – Dortmund. Una bomba de partido porque se odian entre sí. Pregunté la razón y no hay ninguna clara. Se supone que se pelearon una vez y ale, enemigos hasta morir. 
 
 Las normas eran muy fáciles: 
 
--	En esta casa vamos con el amarillo (Borussia) 
+ -	En esta casa vamos con el amarillo (Borussia) 
 No estás autorizada a apoyar al azul (Schalke) 
--	Eres libre de comentar cualquier cosa siempre que sea apoyando al amarillo 
--	Ahórrate las bromas, no nos van a hacer gracia 
+ -	Eres libre de comentar cualquier cosa siempre que sea apoyando al amarillo 
+ -	Ahórrate las bromas, no nos van a hacer gracia 
+ 
 Los 90 minutos más intensos de mi vida. 
 
 
@@ -63,6 +64,7 @@ Un día se me ocurrió jugar a que sé hacer cupcakes, los decoré con colores y
 
 Aquí como ya he dicho, es muy común que los coches vayan decorados con cosas de los equipos. Si estás fuera de Dortmund y ves un coche con decoración de Borussia te alegras un montón y si pueden hasta lo saludan. Pero si ves decoración de otro equipo (Sobretodo Schalke y Bayern) dentro de Dortmund, seguramente se lleven un insulto. 
 ¡Contadme futboleros y futboleras! ¿Son demasiado fans aquí? ¿Es más normal de lo que me creo? 
+
 
 [ESTADIO](/assets/img/enestadio.jpg)
 
