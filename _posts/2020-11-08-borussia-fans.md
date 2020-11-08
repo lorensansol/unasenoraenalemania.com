@@ -39,21 +39,21 @@ Pero no solo eso. Hemos tenido que dar de alta la luz y por apoyar al equipo con
 ![factura](/assets/img/factura.jpg)
 
 
-`Cómo se vive un partido en familia Borusse`
+`Cómo se vive un partido en una familia Borusse`
 
 
 Cada vez que hay partido normalmente la familia de André se junta en una casa a verlo. Hasta ahí todo normal. 
 
-El primer día que formé parte del ritual, me explicaron que es lo que podía y lo que no podía hacer. 
+El primer día que formé parte del ritual, me explicaron lo que podía y lo que no podía hacer. 
 
 *Importante* :  El partido era Schalke – Dortmund. Una bomba de partido porque se odian entre sí. Pregunté la razón y no hay ninguna clara. Se supone que se pelearon una vez y ale, enemigos hasta morir. 
 
 Las normas eran muy fáciles: 
 
  -	En esta casa vamos con el amarillo (Borussia) 
-No estás autorizada a apoyar al azul (Schalke) 
- -	Eres libre de comentar cualquier cosa siempre que sea apoyando al amarillo 
- -	Ahórrate las bromas, no nos van a hacer gracia 
+No estás autorizada a apoyar al azul (Schalke). 
+ -	Eres libre de comentar cualquier cosa siempre que sea apoyando al amarillo. 
+ -	Ahórrate las bromas, no nos van a hacer gracia.
  
 Los 90 minutos más intensos de mi vida. 
 
@@ -62,7 +62,7 @@ Los 90 minutos más intensos de mi vida.
 
 Un día se me ocurrió jugar a que sé hacer cupcakes, los decoré con colores y con sus recipientes bonitos. Hice azul, rojo y verde. Mal María… Muy mal. La tía muy decepcionada solo pudo comerse el verde, porque claro, Schalke es azul y Bayern de Munich es rojo… ¿Cómo iba a traicionar así a su equipo favorito? 
 
-Aquí como ya he dicho, es muy común que los coches vayan decorados con cosas de los equipos. Si estás fuera de Dortmund y ves un coche con decoración de Borussia te alegras un montón y si pueden hasta lo saludan. Pero si ves decoración de otro equipo (Sobretodo Schalke y Bayern) dentro de Dortmund, seguramente se lleven un insulto. 
+Aquí como ya he dicho, es muy común que los coches vayan decorados con cosas de los equipos. Si estás fuera de Dortmund y ves un coche con decoración de Borussia te alegras un montón y si pueden hasta lo saludan. Pero si ves decoración de otro equipo dentro de Dortmund, seguramente se lleven un insulto. 
 
 
 ¡Contadme futboleros y futboleras! ¿Son demasiado fans aquí? ¿Es más normal de lo que me creo? 
