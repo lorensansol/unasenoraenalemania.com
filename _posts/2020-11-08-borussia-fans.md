@@ -39,7 +39,7 @@ Pero no solo eso. Hemos tenido que dar de alta la luz y por apoyar al equipo con
 ![FACTURA](/assets/img/factura.jpg)
 
 
-´Cómo se vive un partido en familia ‘Borusse’´
+´Cómo se vive un partido en familia Borusse´
 
 
 Cada vez que hay partido normalmente la familia de André se junta en una casa a verlo. Hasta ahí todo normal. 
@@ -58,7 +58,7 @@ No estás autorizada a apoyar al azul (Schalke)
 Los 90 minutos más intensos de mi vida. 
 
 
-´Datos graciosos:`
+´Datos graciosos´
 
 Un día se me ocurrió jugar a que sé hacer cupcakes, los decoré con colores y con sus recipientes bonitos. Hice azul, rojo y verde. Mal María… Muy mal. La tía muy decepcionada solo pudo comerse el verde, porque claro, Schalke es azul y Bayern de Munich es rojo… ¿Cómo iba a traicionar así a su equipo favorito? 
 
