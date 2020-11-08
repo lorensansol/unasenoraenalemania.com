@@ -31,12 +31,12 @@ Cuando describen a la afición del Borussia no están exagerando. En cada rincó
 André y yo estamos preparando el piso donde vamos a vivir y tuvimos que cambiar las paredes (ya lo contaré) Debajo del papel pintado encontramos el logo del Borussia. 
 
 
-![PARED](/assets/img/pared.jpg)
+![pared](/assets/img/pared.jpg)
 
 
 Pero no solo eso. Hemos tenido que dar de alta la luz y por apoyar al equipo con una donación de 75 céntimos si no me equivoco, nos dieron merchandising del equipo y nuestra factura irá con el logo y esas cosas. 
 
-![FACTURA](/assets/img/factura.jpg)
+![factura](/assets/img/factura.jpg)
 
 
 `Cómo se vive un partido en familia Borusse`
@@ -68,7 +68,7 @@ Aquí como ya he dicho, es muy común que los coches vayan decorados con cosas d
 ¡Contadme futboleros y futboleras! ¿Son demasiado fans aquí? ¿Es más normal de lo que me creo? 
 
 
-[ESTADIO](/assets/img/enestadio.jpg)
+![ESTADIO](/assets/img/estadio.jpg)
 
 
 Señora
