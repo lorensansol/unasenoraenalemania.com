@@ -1,11 +1,16 @@
 ---
 title: Volar a Alemania en tiempos de COVID
-categories: [General, cultura]
-image: /assets/img/maria-maletas.jpg 
+slug: volar-alemania-tiempos-covid
+description: Hola Señoras y Señores! Hoy os cuento cómo fue mi experiencia y lo
+  que tuve que hacer para volar a Düsseldorf, Alemania.
+categories:
+  - General
+  - cultura
+image: /assets/img/maria-maletas.jpg
 toc: false
 published: true
-last_modified_at: 
-
+date: 2020-10-11
+last_modified_at: null
 ---
 Hola Señoras y Señores! 
 
