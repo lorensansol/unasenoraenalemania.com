@@ -43,7 +43,7 @@ Cada vez que hay partido normalmente la familia de André se junta en una casa a
 
 El primer día que formé parte del ritual, me explicaron lo que podía y lo que no podía hacer.
 
-*Importante*:  El partido era Schalke – Dortmund. Una bomba de partido porque se odian entre sí. Pregunté la razón y no hay ninguna clara. Se supone que se pelearon una vez y ale, enemigos hasta morir.
+**Importante**:  El partido era Schalke – Dortmund. Una bomba de partido porque se odian entre sí. Pregunté la razón y no hay ninguna clara. Se supone que se pelearon una vez y ale, enemigos hasta morir.
 
 Las normas eran muy fáciles:
 
