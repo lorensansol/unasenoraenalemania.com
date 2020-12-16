@@ -1,11 +1,10 @@
 ---
 title: "Mascarillas y seguridad: España vs Alemania"
 slug: mascarillas-espana-alemania
-description: ¡Hola Señoras y Señores! Hoy os voy a contar las diferencias de las
-  medidas de seguridad entre España y Alemania.
+description: ¡Hola Señoras y Señores! Hoy os voy a contar las diferencias de las medidas de seguridad entre España y Alemania.
 categories:
   - General
-  - cultura
+  - Cultura
   - COVID
 image: /assets/img/maria_mascarilla.jpg
 toc: false
@@ -13,7 +12,6 @@ published: true
 date: 2020-10-21
 last_modified_at: false
 ---
-
 ¡Hola Señoras y Señores! 
 
 Hoy os voy a contar las diferencias de las medidas de seguridad entre España y Alemania: 
@@ -40,9 +38,7 @@ En la siguiente imagen podéis ver que la chica de la caja tampoco lleva mascari
 
 En cuanto a los restaurantes (solo he ido a uno) veo que funciona más o menos igual. Entras con tu mascarilla y una vez sentado te la quitas. Además, hay pantallas que separan unas mesas de otras. 
 
-
 El dentista… Muy a mi pesar tuve que ir al dentista de urgencia. Lo que encontré fue muy muy diferente al dentista que he visto en España. En España tanto auxiliares como recepcionistas y doctores llevan capas y capas de protección. Aquí me recibió una recepcionista sin mascarilla y el doctor que me atendió salió de un gabinete con un paciente y entró directamente al mío, sin mascarilla. Se la puso para tratarme. Todo como antes del COVID, vaya. 
-
 
 ### Mi opinión: 
 
@@ -50,12 +46,10 @@ A veces creo que me paso cuando comparo España con Alemania, y muchas veces me 
 
 Me gustaría muchísimo saber qué opináis. Sé que hay gente que me lee que está en Alemania, UK, Polonia, Holanda, etc. ¡Contadme qué pasa allí!  ¡Al final del post tenéis los comentarios que pueden ser totalmente anónimos, podéis usarlos si os apetece opinar!
 
-
 ### Dato curioso: 
 
 Cuando André fue a Benidorm a visitarme dijo que se sentía muy seguro en la ciudad, que tenía ganas de salir a la calle y hacer cosas porque se sentía seguro de poder hacerlo. En Alemania no había salido a hacer ni la mitad de cosas que hicimos juntos allí, y ahora entiendo por qué. 
 
 El 70% de los turistas se sentían más seguros al viajar a España. Y digo yo, si el alemán se siente seguro en España, algo estaremos haciendo bien… 
-
 
 Señora 

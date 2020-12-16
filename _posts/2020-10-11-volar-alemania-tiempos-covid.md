@@ -1,11 +1,10 @@
 ---
 title: Volar a Alemania en tiempos de COVID
 slug: volar-alemania-tiempos-covid
-description: Hola Señoras y Señores! Hoy os cuento cómo fue mi experiencia y lo
-  que tuve que hacer para volar a Düsseldorf, Alemania.
+description: Hola Señoras y Señores! Hoy os cuento cómo fue mi experiencia y lo que tuve que hacer para volar a Düsseldorf, Alemania.
 categories:
   - General
-  - cultura
+  - Cultura
 image: /assets/img/maria-maletas.jpg
 toc: false
 published: true

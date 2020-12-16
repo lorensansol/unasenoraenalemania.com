@@ -1,10 +1,13 @@
 ---
 title: Presentación
+slug: presentacion
 description: Soy María y sí, mis amigues me llaman Señora. Aún recuerdo a Anabel muy enfadada por llamarla señora el primer día que nos conocimos en Dortmund...
-categories: General
+categories:
+  - General
 image: /assets/img/maria.jpg
 toc: false
 published: true
+date: 2020-10-06
 last_modified_at:
 ---
 ¡Señoras y señores!
