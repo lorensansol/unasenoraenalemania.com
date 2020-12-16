@@ -1,11 +1,17 @@
 ---
-title: 'Mascarillas y seguridad: España vs Alemania'
-categories: [General, cultura, COVID]
+title: "Mascarillas y seguridad: España vs Alemania"
+slug: mascarillas-espana-alemania
+description: ¡Hola Señoras y Señores! Hoy os voy a contar las diferencias de las
+  medidas de seguridad entre España y Alemania.
+categories:
+  - General
+  - cultura
+  - COVID
 image: /assets/img/maria_mascarilla.jpg
 toc: false
 published: true
+date: 2020-10-21
 last_modified_at: false
-
 ---
 
 ¡Hola Señoras y Señores! 
