@@ -1,10 +1,15 @@
 ---
-title: Cómo se vive el fútbol en Dortmund 
-categories: [General, cultura]
+title: Cómo se vive el fútbol en Dortmund
+slug: borussia-fans
+description: ¡Hola Señoras y Señores! Como sabéis, estoy viviendo en Alemania,
+  en concreto en Dortmund. Es una ciudad pequeña que forma parte de la...
+categories:
+  - General
+  - cultura
 image: /assets/img/bvb.jpg
 toc: false
 published: true
-
+date: 2020-11-08
 ---
 
 
