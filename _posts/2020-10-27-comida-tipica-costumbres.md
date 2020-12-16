@@ -1,10 +1,16 @@
 ---
-title: Comida típica alemana y sus hábitos 
-categories: [General, cultura, gastronimía]
+title: Comida típica alemana y sus hábitos
+slug: comida-tipica-costumbres
+description: ¡Hola Señoras y Señores! Empezamos el post abriendo apetito con la
+  siguiente receta de la comida más típica alemana.
+categories:
+  - General
+  - cultura
+  - gastronimía
 image: /assets/img/senora_curry_wurst.jpg
 toc: false
 published: true
-
+date: 2020-10-27
 ---
 
 ¡Hola Señoras y Señores!,
