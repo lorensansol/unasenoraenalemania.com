@@ -1,6 +1,8 @@
 ---
 title: Una cerveza en Phoenix See
 slug: cerveza-phoenix-see
+description: "¡Hola, Señoras y Señores! Esta semana junto las cosas que más me
+  gustan: ¡una cerveza, aire libre y la mejor compañía! 🍻"
 categories:
   - General
   - Cultura
