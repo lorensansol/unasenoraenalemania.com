@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: lorensansol/unasenoraenalemania.com
-  site_domain: dreamy-jennings-6bac0f.netlify.com
+  site_domain: unasenoraenalemania.netlify.com
 media_folder: assets/img # Media files will be stored in the repo under images/uploads
 public_folder: /assets/img # The src attribute for uploaded media will begin with /images/uploads
 site_url: /
