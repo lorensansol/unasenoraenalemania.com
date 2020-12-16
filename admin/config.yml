@@ -1,0 +1,175 @@
+backend:
+  name: github
+  branch: main # Branch to update (optional; defaults to master)
+  repo: lorensansol/unasenoraenalemania.com
+  site_domain: practical-haibt-539235.netlify.com
+media_folder: assets/img # Media files will be stored in the repo under images/uploads
+public_folder: /assets/img # The src attribute for uploaded media will begin with /images/uploads
+site_url: /
+display_url: https://unasenoraenalemania.com
+logo_url: /assets/img/logo.svg
+locale: es
+# show_preview_links: false
+collections:
+  - name: posts # Used in routes, e.g., /admin/collections/blog
+    identifier_field: "{{fields.slug}}"
+    label: Posts # Used in the UI
+    folder: _posts # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{fields.date}}-{{fields.slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: "{{fields.slug}}"
+    summary: "{{date}} · {{title}}"
+    sortable_fields: ['date', 'last_modified_at', 'commit_date', 'title']
+    view_filters:
+      - label: Publicados
+        field: published
+        pattern: true
+      - label: No Publicados
+        field: published
+        pattern: false
+    view_groups:
+      - label: Año
+        field: date
+        pattern: \d{4}
+      - label: Mes
+        field: date
+        pattern: \d{4}-\d{2}
+      - label: Publicados
+        field: published
+    fields: # The fields for each document, usually in front matter
+      - label: Título
+        name: title
+        widget: string
+        hint: "Ejemplo: 'Día de paseo por el nuevo barrio'"
+      - label: Slug
+        name: slug
+        widget: string
+        hint: "Corto · Descriptivo · Sin palabras irrelevantes (de, por, para, el...) · En minúsculas · Sin espacios (SI guiones medios) · Sin caracteres extraños (ni eñes ni barras bajas) · Ejemplo: 'paseo-nuevo-barrio'."
+        encoding: ascii
+        clean_accents: true
+        sanitize_replacement: "-"
+      - label: Descripción
+        name: description
+        widget: text
+        hint: "70 < Caracteres < 155 (~135) · llll➤ ✅ ➕ ⚡ ✆ ® © ❤ ⬤ ✚ ➥ ✓ « » ‹ ›"
+      - label: Categorías
+        name: categories
+        widget: list
+        hint: Indica una o varias categorías separadas por coma y espacio
+        min: 1
+      - label: Imagen principal
+        name: image
+        widget: image
+        hint: "Nombre de archivo con mismo formato que 'slug' · Máximo 700 pixeles de ancho · Editor online: pixlr.com · Compresor online: kraken.io"
+        encoding: ascii
+        clean_accents: true
+        sanitize_replacement: "-"
+        required: false
+      - label: Índice
+        name: toc
+        widget: boolean
+        hint: Creado automáticamente mediante subencabezados
+        default: false
+      - label: Publicar
+        name: published
+        widget: boolean
+        default: false
+      - label: Fecha
+        name: date
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+      - label: Última modifiación
+        name: last_modified_at
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+        default: false
+        required: false
+      - label: Contenido
+        name: body
+        widget: markdown
+        required: false
+  - name: drafts # Used in routes, e.g., /admin/collections/blog
+    identifier_field: "{{fields.slug}}"
+    label: Borradores # Used in the UI
+    folder: _drafts # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{fields.date}}-{{fields.slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    preview_path: "{{fields.slug}}"
+    summary: "{{date}} · {{title}}"
+    sortable_fields: ['date', 'last_modified_at', 'commit_date', 'title']
+    view_filters:
+      - label: Publicados
+        field: published
+        pattern: true
+      - label: No Publicados
+        field: published
+        pattern: false
+    view_groups:
+      - label: Año
+        field: date
+        pattern: \d{4}
+      - label: Mes
+        field: date
+        pattern: \d{4}-\d{2}
+      - label: Publicados
+        field: published
+    fields: # The fields for each document, usually in front matter
+      - label: Título
+        name: title
+        widget: string
+        hint: "Ejemplo: 'Día de paseo por el nuevo barrio'"
+      - label: Slug
+        name: slug
+        widget: string
+        hint: "Corto · Descriptivo · Sin palabras irrelevantes (de, por, para, el...) · En minúsculas · Sin espacios (SI guiones medios) · Sin caracteres extraños (ni eñes ni barras bajas) · Ejemplo: 'paseo-nuevo-barrio'."
+        encoding: ascii
+        clean_accents: true
+        sanitize_replacement: "-"
+      - label: Descripción
+        name: description
+        widget: text
+        hint: "70 < Caracteres < 155 (~135) · llll➤ ✅ ➕ ⚡ ✆ ® © ❤ ⬤ ✚ ➥ ✓ « » ‹ ›"
+      - label: Categorías
+        name: categories
+        widget: list
+        hint: Indica una o varias categorías separadas por coma y espacio
+        min: 1
+      - label: Imagen principal
+        name: image
+        widget: image
+        hint: "Nombre de archivo con mismo formato que 'slug' · Máximo 700 pixeles de ancho · Editor online: pixlr.com · Compresor online: kraken.io"
+        encoding: ascii
+        clean_accents: true
+        sanitize_replacement: "-"
+        required: false
+      - label: Índice
+        name: toc
+        widget: boolean
+        hint: Creado automáticamente mediante subencabezados
+        default: false
+      - label: Publicar
+        name: published
+        widget: boolean
+        default: false
+      - label: Fecha
+        name: date
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+      - label: Última modifiación
+        name: last_modified_at
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+        default: false
+        required: false
+      - label: Contenido
+        name: body
+        widget: markdown
+        required: false
