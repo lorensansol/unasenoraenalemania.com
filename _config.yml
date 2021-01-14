@@ -69,7 +69,7 @@ compress_html:
     envs: [development]
 
 # Exclude
-exclude: [README.md, Gemfile, Gemfile.lock, google7467d923cbb3eb4c.html]
+exclude: [README.md, Gemfile, Gemfile.lock]
 
 # Defaults values
 defaults:
@@ -119,7 +119,7 @@ defaults:
       sitemap: false
   - # Netlify CMS admin
     scope:
-      path: '/admin/'
+      path: '/admin/index.html'
     values:
       sitemap: false
   - # PDF all files
