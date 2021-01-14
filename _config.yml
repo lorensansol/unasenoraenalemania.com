@@ -69,7 +69,10 @@ compress_html:
     envs: [development]
 
 # Exclude
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Defaults values
 defaults:
